@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mansour-G/Lavish_React-project.git/static/css/main.60988a4b.css",
+    "main.js": "/Mansour-G/Lavish_React-project.git/static/js/main.7f252672.js",
+    "index.html": "/Mansour-G/Lavish_React-project.git/index.html",
+    "main.60988a4b.css.map": "/Mansour-G/Lavish_React-project.git/static/css/main.60988a4b.css.map",
+    "main.7f252672.js.map": "/Mansour-G/Lavish_React-project.git/static/js/main.7f252672.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60988a4b.css",
+    "static/js/main.7f252672.js"
+  ]
+}
